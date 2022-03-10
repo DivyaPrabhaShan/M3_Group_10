@@ -1,5 +1,8 @@
-# RKE (Remote Keyless Entry)
-# High Level Requirements
+# 1.RKE (Remote Keyless Entry)
+ # 1.1 Description
+     * The project Remote Keyless Entry system is designed to remotely lock or unlock access to automobile. It is shortly known as RKE. It consists of two components mainly named as Transmitter and receiver.In Traditional method of opening car doors by inserting physical keys. The RKE allow key holders to remotely lock and unlock car doors,turn on and off alarms.The functions of Remote Keyless Entry are all the led should on at the same time when blue switch on once ,when the blue switch is pressed two times all led should go off at the same time,similarly when the press counts three all led on in anticlockwise manner,and when the press is four times all led on in anticlockwise manner. It works u8sing radio signals emitted from the car and a key fob that searches for those signals.
+# 2.Requirements
+# 2.1 High Level Requirements
  | HLR ID | Description|
  |--------| -----------|
  |  HLR1  | This system shall allow the user to enter the car keyless |
@@ -7,7 +10,7 @@
  |  HLR3  | This system shall allows the user to operate the car without entering the car (i.e.controlling windows and sunproof).
  |  HLR4  | This system shall alerts the user if someone breaks into the car|
  
-# Low Level Requirement
+# 2.2 Low Level Requirement
  | LLR ID | HLR ID | Description |
  |--------|--------|-------------|
  | LLR1 | HLR2 | The Receiver shall receives the signal and sends to the controller|
