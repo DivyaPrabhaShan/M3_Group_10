@@ -5,7 +5,7 @@
 |HLT2| Controller commands the sensor | Controlling the system |Scenario based|
 |HLT3| Vehicle unlocks |Unlocking Vehicle |Boundary based|
 ___
-# Low Level Test Plan:
+# Low Level Test Plan
 |Test ID | Description| Expected output | Type of Test |
 |--------|------------|-----------------|--------------|
 |LLT1|Identify the signal from transmitter| Sensed| Requirement Based|
