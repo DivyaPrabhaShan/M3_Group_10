@@ -3,7 +3,7 @@
 |Test ID | Description | Expected output | Type of Test |
 |--------|-------------|-----------------|--------------|
 | HLT1| car window  | alerts if not closed properly|scenario based|
-| HLT2| car door| | alerts if not closed properly| scenario based|
+| HLT2| car door| alerts if not closed properly| scenario based|
 | HLT3|if car is in danger | it alerts by giving warning sound | scenario basedi|
 # 4.2 Low Level Test Plan
 |Test ID | Description | Expected output | Type of Test|
