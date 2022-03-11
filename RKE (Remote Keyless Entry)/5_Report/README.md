@@ -30,6 +30,21 @@
 
 # 3.2 Low Level Diagram
    ![PUSH BUTTON](https://user-images.githubusercontent.com/98879001/157829376-62b52161-abbe-4109-808e-36b5b10d2b7d.png)
+# 4.Test plan  
+# 4.1 High Level Test Plan
+|Test ID | Description| Expected Output | Type of Test |
+|--------|------------|-----------------|--------------|
+|HLT1| Receiver receives the signal |Receives  |Requirement Based|
+|HLT2| Controller commands the sensor | Controlling the system |Scenario based|
+|HLT3| Vehicle unlocks |Unlocking Vehicle |Boundary based|
+___
+# 4.2 Low Level Test Plan
+|Test ID | Description| Expected output | Type of Test |
+|--------|------------|-----------------|--------------|
+|LLT1|Identify the signal from transmitter| Sensed| Requirement Based|
+|LLT2| Opening windows| Processing | Scenario Based|
+|LLT3 |Vehicle locks | Locked| Boundary Based|
+   
 
      
 
