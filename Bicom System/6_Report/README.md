@@ -26,10 +26,10 @@
    | LLR3| HLR3| In this system if the doors of the car was not properly closed then it indicates|
    | LLR4| HLR4| In this system if someone does sany illegal activities it alerts|
  # 3.Block Diagram
-   # 3.1 High Level Diagram
+   # 3.1 Structural Diagram
  
    ![WhatsApp Image 2022-03-11 at 7 18 48 PM](https://user-images.githubusercontent.com/98879001/157881012-9a000de6-594f-441d-8c0e-dbb74185a091.jpeg)
-   # 3.2 Low Level Diagram
+   # 3.2 Behavioural Diagram
    ![WhatsApp Image 2022-03-11 at 7 31 57 PM](https://user-images.githubusercontent.com/98879001/157883198-97eba65c-966f-4823-bacd-cbbd3e8ccf42.jpeg)
 # 4.Test Plan
 # 4.1 High Level Test Plan
