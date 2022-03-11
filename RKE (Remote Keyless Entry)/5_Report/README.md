@@ -26,10 +26,10 @@
  | LLR3 | HLR4 | The Controller will send all the processed data to the sensors to perform the specified operations|
 
 # 3.Block Diagram
- # 3.1 High Level Diagram
+ # 3.1 Structural Diagram
    ![Add a subheading (1)](https://user-images.githubusercontent.com/98879001/157820195-379bfaa6-09aa-4807-a116-d96b9d6fcebe.png)
 
-# 3.2 Low Level Diagram
+# 3.2 Behavioural Diagram
    ![PUSH BUTTON](https://user-images.githubusercontent.com/98879001/157829376-62b52161-abbe-4109-808e-36b5b10d2b7d.png)
 # 4.Test plan  
 # 4.1 High Level Test Plan
