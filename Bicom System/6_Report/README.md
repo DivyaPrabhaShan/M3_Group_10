@@ -26,4 +26,3 @@
    | LLR3| HLR3| In this system if the doors of the car was not properly closed then it indicates|
    | LLR4| HLR4| In this system if someone does sany illegal activities it alerts|
  
- 
