@@ -1,6 +1,6 @@
 # 1.RKE (Remote Keyless Entry)
  # 1.1 Description
-   * The project Remote Keyless Entry system is designed to remotely lock or unlock access to automobile. It is shortly known as RKE. It consists of two components mainly named as Transmitter and receiver.In Traditional method of opening car doors by inserting physical keys. The RKE allow key holders to remotely lock and unlock car doors,turn on and off alarms.The functions of Remote Keyless Entry are all the led should on at the same time when blue switch on once ,when the blue switch is pressed two times all led should go off at the same time,similarly when the press counts three all led on in anticlockwise manner,and when the press is four times all led on in anticlockwise manner. It works u8sing radio signals emitted from the car and a key fob that searches for those signals.
+  * The project Remote Keyless Entry (RKE) system is designed to remotely lock, unlock  and to access the vehicle. It consists of two major working components i.e. Transmitter and receiver. This system is third generations of keys, the first gen was  physical keys to access the vehicle and the second gen is keyless entry which uses  similar components but with less features and lower security level. The RKE allows the key holders to remotely lock and unlock car doors, turn on and off alarms and  can access few other features
   # 1.2 5W'S and 1H
   ![Beige and Emerald Simple Modern SWOT Research Graph (3)](https://user-images.githubusercontent.com/98879001/157755465-bba66aeb-cda4-484b-9b15-bef040721d48.png)
 
