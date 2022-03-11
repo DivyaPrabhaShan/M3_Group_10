@@ -24,3 +24,11 @@
  | LLR1 | HLR2 | The Receiver receives the signal and sends to the controller|
  | LLR2 | HLR3 | The Command module commands the sensors to act according to the data given in the controller|
  | LLR3 | HLR4 | The Controller will send all the processed data to the sensors to perform the specified operations|
+ # Survey
+ * [Remote Keyless Entry refernce survey](https://www.sciencedirect.com/topics/engineering/keyless-entry-system)
+ * [Remote keyless Entry Security survey ](https://illmatics.com/remote%20attack%20surfaces.pdf)
+ * [Future scope of RKE ](https://www.globenewswire.com/news-release/2021/07/02/2256984/0/en/Automotive-Keyless-Entry-Systems-Market-Size-2021-Is-Projected-to-Reach-USD-3-061-4-million-by-2028-Exhibiting-a-CAGR-of-12-2.html)
+
+
+
+ 
